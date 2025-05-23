@@ -1,0 +1,11 @@
+[package]
+name = "aoc2015"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day01"
+src= "day01.rs"
+
+
+[dependencies]
