@@ -19,5 +19,9 @@ src= "day03.rs"
 name = "day04"
 src= "day04.rs"
 
+[[bin]]
+name = "day05"
+src= "day05.rs"
+
 [dependencies]
 md5 = "0.7.0"
