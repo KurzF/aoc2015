@@ -39,6 +39,10 @@ src= "day08.rs"
 name = "day09"
 src= "day09.rs"
 
+[[bin]]
+name = "day25"
+src= "day25.rs"
+
 [dependencies]
 md5 = "0.7.0"
 regex = "1.11.1"
