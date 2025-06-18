@@ -42,6 +42,8 @@ src= "day09.rs"
 [[bin]]
 name = "day10"
 src= "day10.rs"
+
+[[bin]]
 name = "day11"
 src= "day11.rs"
 
